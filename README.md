@@ -1,0 +1,1 @@
+# sp500_top1_inversor.py
